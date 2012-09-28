@@ -1,3 +1,4 @@
+YAY!!!  Metasploit Mastery is super fun!
 
 Metasploit
 ==
